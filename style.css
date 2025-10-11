@@ -1,0 +1,41 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image: url(https://png.pngtree.com/background/20250207/original/pngtree-soft-pastel-floral-design-light-blue-background-picture-image_16257054.jpg);
+    background-size: cover;
+    box-sizing: border-box;
+}
+header{
+background-color: rgba(2, 2, 34, 0.648);
+width: 100%;
+height: 100px;
+}
+#kon{
+    text-align: center;
+    color: white ;
+}
+.bheemsen{
+
+}
+.photo img{
+    height: 310px;
+    width: 290px;
+    border-radius: 100px
+    ;
+    justify-content: center;
+}
+.mere-baare{
+
+}
+#About{
+    text-align: center;
+
+}
+#bhai{
+    text-align: center
+}
+#yaar{
+    text-align: center;
+}
